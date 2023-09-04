@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+C:\Users\SENA\Documents\EjerciciosPracticos\.metadata\.plugins\org.eclipse.jdt.core
+302609527.index
+1650688248.index
+2356011476.index
+1695433953.index
+4122040688.index
+4228322651.index

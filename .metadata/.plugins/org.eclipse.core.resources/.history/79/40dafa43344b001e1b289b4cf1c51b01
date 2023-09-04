@@ -1,0 +1,8 @@
+import javax.swing.JOptionPane;
+
+public class Procesos {
+	public void nombre() {
+	    String iNombre = JOptionPane.showInputDialog("Ingrese su nombre");
+		System.out.println("Hola " + iNombre);
+	}
+}
